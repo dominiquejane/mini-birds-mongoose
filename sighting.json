@@ -3,28 +3,28 @@
 [{
   "name": "red breasted merganser",
   "order": "Anseriformes",
-  "status": "least concern",
+  "status": "hunted",
   "confirmed": true,
   "numberSeen": 2
 },
 {
   "name": "cedar waxwing",
   "order": "Passeriformes",
-  "status": "least concern",
+  "status": "hunted",
   "confirmed": false,
   "numberSeen": 5
 },
 {
   "name": "osprey",
   "order": "Accipitriformes",
-  "status": "least concern",
+  "status": "hunted",
   "confirmed": true,
   "numberSeen": 2
 },
 {
   "name": "snowy plover",
   "order": "Charadriformes",
-  "status": "least concern",
+  "status": "hunted",
   "confirmed": true,
   "numberSeen": 7
 },
@@ -38,7 +38,7 @@
 {
   "name": "greater sage grouse",
   "order": "GALLIFORMES",
-  "status": "near threatened",
+  "status": "endangered",
   "confirmed": true,
   "numberSeen": 2
 }]
